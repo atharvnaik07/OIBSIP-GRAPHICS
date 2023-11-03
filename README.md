@@ -21,4 +21,3 @@ The graphics and materials in this project are the intellectual property of Oasi
 
 Please respect the licensing terms and reach out to Oasis Infobyte for permissions and collaborations.
 
-![Oasis Infobyte Logo](Logo.pdf)
